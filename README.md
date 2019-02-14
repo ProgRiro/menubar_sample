@@ -1,6 +1,6 @@
 # menubar_sample
 
-https://progriro.github.io/menubar_sample/
+https://shin81zzz.github.io/menubar_sample/
 
 Webページのメニューバーのサンプルです。
 
